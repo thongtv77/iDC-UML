@@ -1,55 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T09:01:00.215Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36 Edg/100.0.1185.39" etag="YWfK16XnNHNrY5ffD-Ng" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-11T01:14:17.779Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="m_RvQ94wUJBmsuV88vOn" version="18.0.2" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="1673" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="77e6c97f196da883-1" value="QUY TRÌNH THỰC HIỆN DỰ&amp;nbsp;ÁN HẠ TẦNG KHU DÂN CƯ" style="swimlane;html=1;childLayout=stackLayout;startSize=20;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="40" width="1120" height="750" as="geometry" />
-        </mxCell>
-        <mxCell id="77e6c97f196da883-2" value="SAN NỀN" style="swimlane;html=1;startSize=20;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;rounded=1;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry y="20" width="160" height="730" as="geometry" />
-        </mxCell>
-        <mxCell id="77e6c97f196da883-8" value="XÁC ĐỊNH CAO ĐỘ SAN NỀN" style="whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;rounded=1;" parent="77e6c97f196da883-2" vertex="1">
-          <mxGeometry x="20" y="65" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="77e6c97f196da883-3" value="GIAO THÔNG" style="swimlane;html=1;startSize=20;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;rounded=1;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry x="160" y="20" width="160" height="730" as="geometry" />
-        </mxCell>
-        <mxCell id="77e6c97f196da883-9" value="" style="whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;rounded=1;" parent="77e6c97f196da883-3" vertex="1">
-          <mxGeometry x="30" y="65" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pGV2hjcUIDJhitmI3W1o-6" value="" style="whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;rounded=1;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="30" y="220" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pGV2hjcUIDJhitmI3W1o-5" value="" style="whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;rounded=1;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="30" y="300" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pGV2hjcUIDJhitmI3W1o-4" value="" style="whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;rounded=1;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="30" y="140" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pGV2hjcUIDJhitmI3W1o-3" value="" style="whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;rounded=1;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="30" y="380" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="77e6c97f196da883-4" value="THOÁT NƯỚC MƯA" style="swimlane;html=1;startSize=20;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;rounded=1;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry x="320" y="20" width="160" height="730" as="geometry" />
-        </mxCell>
-        <mxCell id="77e6c97f196da883-5" value="THOÁT NƯỚC THẢI" style="swimlane;html=1;startSize=20;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;rounded=1;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry x="480" y="20" width="160" height="730" as="geometry" />
-        </mxCell>
-        <mxCell id="77e6c97f196da883-6" value="CÂY XANH" style="swimlane;html=1;startSize=20;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;rounded=1;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry x="640" y="20" width="160" height="730" as="geometry" />
-        </mxCell>
-        <mxCell id="77e6c97f196da883-7" value="ĐIỆN-THÔNG TIN" style="swimlane;html=1;startSize=20;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;rounded=1;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry x="800" y="20" width="160" height="730" as="geometry">
-            <mxRectangle x="800" y="20" width="30" height="730" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pGV2hjcUIDJhitmI3W1o-1" value="CẤP NƯỚC" style="swimlane;html=1;startSize=20;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="60" width="160" height="730" as="geometry">
-            <mxRectangle x="800" y="20" width="30" height="730" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
