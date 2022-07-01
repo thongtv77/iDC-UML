@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-07-01T03:43:05.100Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="AZ_5DOSdy2SZN9YkcpWd" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-01T03:48:07.156Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="H92KWH28v_31H9-QoMC3" version="20.0.4" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="769" dy="412" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="669" dy="757" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xv1IwTtoa9AthDepYEZb-1" value="COORINATE" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="87" y="44" width="109" height="104" as="geometry">
+          <mxGeometry x="52" y="44" width="109" height="234" as="geometry">
             <mxRectangle x="87" y="44" width="105" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -17,6 +17,48 @@
         </mxCell>
         <mxCell id="xv1IwTtoa9AthDepYEZb-4" value="X(m)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="xv1IwTtoa9AthDepYEZb-1">
           <mxGeometry y="78" width="109" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="xv1IwTtoa9AthDepYEZb-6" value="Y(m)&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="xv1IwTtoa9AthDepYEZb-1">
+          <mxGeometry y="104" width="109" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="xv1IwTtoa9AthDepYEZb-7" value="Góc Xoay" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="xv1IwTtoa9AthDepYEZb-1">
+          <mxGeometry y="130" width="109" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="xv1IwTtoa9AthDepYEZb-8" value="Cao độ đỉnh ga" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="xv1IwTtoa9AthDepYEZb-1">
+          <mxGeometry y="156" width="109" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="xv1IwTtoa9AthDepYEZb-9" value="Cao độ đáy ga" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="xv1IwTtoa9AthDepYEZb-1">
+          <mxGeometry y="182" width="109" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="xv1IwTtoa9AthDepYEZb-10" value="Cao độ tự nhiên" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="xv1IwTtoa9AthDepYEZb-1">
+          <mxGeometry y="208" width="109" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="xv1IwTtoa9AthDepYEZb-11" value="DIMENSION" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="216" y="44" width="140" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="xv1IwTtoa9AthDepYEZb-12" value="ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="xv1IwTtoa9AthDepYEZb-11">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="xv1IwTtoa9AthDepYEZb-13" value="Station" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="xv1IwTtoa9AthDepYEZb-11">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="xv1IwTtoa9AthDepYEZb-14" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="xv1IwTtoa9AthDepYEZb-11">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="xv1IwTtoa9AthDepYEZb-15" value="THÂN GA ĐÚC SẴN" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="216" y="165" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="xv1IwTtoa9AthDepYEZb-16" value="ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="xv1IwTtoa9AthDepYEZb-15">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="xv1IwTtoa9AthDepYEZb-17" value="Station" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="xv1IwTtoa9AthDepYEZb-15">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="xv1IwTtoa9AthDepYEZb-18" value="Loại ga" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="xv1IwTtoa9AthDepYEZb-15">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="xv1IwTtoa9AthDepYEZb-19" value="Loại đường kính" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="xv1IwTtoa9AthDepYEZb-15">
+          <mxGeometry y="104" width="140" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
